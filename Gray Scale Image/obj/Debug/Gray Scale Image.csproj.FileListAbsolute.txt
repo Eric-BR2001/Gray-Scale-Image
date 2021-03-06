@@ -1,0 +1,10 @@
+C:\Users\ericr\Desktop\GitPessoal\Gray-Scale-Image\Gray Scale Image\Gray Scale Image\bin\Debug\Gray Scale Image.exe.config
+C:\Users\ericr\Desktop\GitPessoal\Gray-Scale-Image\Gray Scale Image\Gray Scale Image\bin\Debug\Gray Scale Image.exe
+C:\Users\ericr\Desktop\GitPessoal\Gray-Scale-Image\Gray Scale Image\Gray Scale Image\bin\Debug\Gray Scale Image.pdb
+C:\Users\ericr\Desktop\GitPessoal\Gray-Scale-Image\Gray Scale Image\Gray Scale Image\obj\Debug\Gray Scale Image.csprojAssemblyReference.cache
+C:\Users\ericr\Desktop\GitPessoal\Gray-Scale-Image\Gray Scale Image\Gray Scale Image\obj\Debug\Gray_Scale_Image.Form1.resources
+C:\Users\ericr\Desktop\GitPessoal\Gray-Scale-Image\Gray Scale Image\Gray Scale Image\obj\Debug\Gray_Scale_Image.Properties.Resources.resources
+C:\Users\ericr\Desktop\GitPessoal\Gray-Scale-Image\Gray Scale Image\Gray Scale Image\obj\Debug\Gray Scale Image.csproj.GenerateResource.cache
+C:\Users\ericr\Desktop\GitPessoal\Gray-Scale-Image\Gray Scale Image\Gray Scale Image\obj\Debug\Gray Scale Image.csproj.CoreCompileInputs.cache
+C:\Users\ericr\Desktop\GitPessoal\Gray-Scale-Image\Gray Scale Image\Gray Scale Image\obj\Debug\Gray Scale Image.exe
+C:\Users\ericr\Desktop\GitPessoal\Gray-Scale-Image\Gray Scale Image\Gray Scale Image\obj\Debug\Gray Scale Image.pdb
